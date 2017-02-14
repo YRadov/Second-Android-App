@@ -1,2 +1,2 @@
-# Second-Android-App
+# Second-Android-App "Messenger"
 The second educational project for Android
